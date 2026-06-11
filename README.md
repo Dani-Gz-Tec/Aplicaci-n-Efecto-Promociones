@@ -6,7 +6,7 @@
 
 This contains everything you need to run your app locally.
 
-View your app in AI Studio: https://ai.studio/apps/309b7abf-c532-4aa7-a3cd-0ea621a126bf
+View the App in Git Hub Pages: [https://ai.studio/apps/309b7abf-c532-4aa7-a3cd-0ea621a126bf](https://dani-gz-tec.github.io/Aplicaci-n-Efecto-Promociones/)
 
 ## Run Locally
 
