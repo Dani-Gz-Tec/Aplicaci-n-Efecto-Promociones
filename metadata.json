@@ -1,0 +1,6 @@
+{
+  "name": "Remix: Efecto de Promociones",
+  "description": "Plataforma enterprise de data analytics para evaluar la efectividad de promociones comerciales usando heurística e IA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
